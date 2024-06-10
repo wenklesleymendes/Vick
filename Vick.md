@@ -1,30 +1,51 @@
 # Roteiro de Estudo para Prova V2
 
 ## 1. Reações Inflamatórias Agudas
+
 ### Pontos Principais para Estudo:
+
 #### Células Envolvidas:
-- Neutrófilos:
-  Neutrófilos são os leucócitos mais abundantes no sangue e os primeiros a chegar no local da inflamação. Eles fagocitam (ingerem) 
-   e detritos celulares, e liberam enzimas que ajudam a degradar patógenos.
+- **Neutrófilos**:
+  Neutrófilos são os leucócitos mais abundantes no sangue e os primeiros a chegar no local da inflamação. Eles fagocitam (ingerem) microrganismos e detritos celulares, e liberam enzimas que ajudam a degradar patógenos.
   
-- Macrófagos:
+- **Macrófagos**:
   Macrófagos derivam de monócitos e têm um papel crucial na resposta inflamatória. Eles fagocitam patógenos, células mortas e detritos. Além disso, secretam citocinas que modulam a resposta inflamatória.
   
-- Mastócitos:
+- **Mastócitos**:
   Mastócitos são células encontradas nos tecidos, especialmente perto de vasos sanguíneos. Eles liberam histamina e outros mediadores inflamatórios que aumentam a permeabilidade vascular e recrutam outras células inflamatórias.
   
-- Plaquetas:
+- **Plaquetas**:
   Plaquetas são fragmentos celulares que desempenham um papel importante na coagulação do sangue. Durante a inflamação, elas também liberam mediadores químicos que contribuem para a resposta inflamatória.
 
 #### Eventos Celulares e Vasculares:
-- Vasodilatação:
+- **Vasodilatação**:
   Vasodilatação é o aumento do diâmetro dos vasos sanguíneos, resultando em maior fluxo de sangue para a área afetada. Isso causa o rubor e o calor típicos da inflamação.
   
-- Aumento da permeabilidade vascular:
+- **Aumento da permeabilidade vascular**:
   A permeabilidade vascular aumentada permite que fluidos, proteínas e células do sangue escapem para o tecido intersticial, causando edema (inchaço).
   
-- Migração de leucócitos:
+- **Migração de leucócitos**:
   Leucócitos (como neutrófilos e macrófagos) migram do sangue para o local da inflamação em resposta a sinais químicos (quimiotaxia).
+
+#### Como Ocorre a Reação Aguda:
+- **Reconhecimento do agente invasor**:
+  O sistema imunológico reconhece patógenos através de receptores específicos (como TLRs - Toll-like receptors) que detectam padrões moleculares associados a microrganismos.
+  
+- **Ativação de células imunológicas**:
+  Células imunológicas são ativadas e começam a produzir mediadores inflamatórios que amplificam a resposta e recrutam mais células ao local da infecção.
+  
+- **Liberação de mediadores químicos**:
+  Mediadores como histamina, prostaglandinas e citocinas são liberados, aumentando a permeabilidade vascular e atraindo mais células imunológicas.
+
+#### Caminhos que Ela Pode Seguir:
+- **Resolução completa**:
+  O agente causador é eliminado, a inflamação cessa e o tecido retorna ao normal sem danos permanentes.
+  
+- **Cura com cicatrização**:
+  Se o dano tecidual é significativo, o tecido pode cicatrizar, resultando em formação de cicatriz e possível perda de função.
+  
+- **Inflamação crônica**:
+  Se o agente causador não é completamente eliminado ou se a resposta inflamatória é desregulada, a inflamação pode se tornar crônica, levando a danos teciduais persistentes e doenças crônicas.
 
 #### Como Ocorre a Reação Aguda:
 - Reconhecimento do agente invasor:
