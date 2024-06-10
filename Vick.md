@@ -235,44 +235,5 @@
 - **Hematopoéticos**:
   Tumores originados das células do sangue e do sistema imunológico. Exemplos incluem leucemias e linfomas.
 
-## Roteiro de Estudo Diário
 
-### Semana 1: Reações Inflamatórias Agudas
-- **Dia 1**: Estudar as células envolvidas e os eventos celulares e vasculares.
-- **Dia 2**: Compreender o processo da reação aguda.
-- **Dia 3**: Analisar os diferentes caminhos que a reação aguda pode seguir.
-- **Dia 4**: Revisão e exercícios de fixação.
 
-### Semana 2: Reações Inflamatórias Crônicas
-- **Dia 1**: Estudar os fatores predisponentes e as características da reação granulomatosa.
-- **Dia 2**: Compreender a celularidade da reação crônica.
-- **Dia 3**: Exemplos de doenças que predispõem ao desenvolvimento de RIC.
-- **Dia 4**: Revisão e exercícios de fixação.
-
-### Semana 3: Cicatrização
-- **Dia 1**: Classificação e tipos de cicatrização.
-- **Dia 2**: Como ocorre a cicatrização e as células envolvidas.
-- **Dia 3**: Fatores que afetam a evolução da cicatrização.
-- **Dia 4**: Revisão e exercícios de fixação.
-
-### Semana 4: Distúrbios Circulatórios
-- **Dia 1**: Fatores predisponentes e problemas circulatórios.
-- **Dia 2**: Estudar trombose, embolia e suas características.
-- **Dia 3**: Compreender hemorragia e edema, doenças arteromatosas, hiperemia, e choques.
-- **Dia 4**: Revisão e exercícios de fixação.
-
-### Semana 5: Neoplasia
-- **Dia 1**: Estudar fatores predisponentes ao desenvolvimento do câncer.
-- **Dia 2**: Características de tumores benignos e malignos.
-- **Dia 3**: Classificação dos tumores.
-- **Dia 4**: Revisão geral e exercícios de fixação.
-
-## Recursos Adicionais
-- **Livros**: Utilize livros-texto de patologia e fisiologia.
-- **Artigos Científicos**: Leitura de artigos sobre os temas específicos pode aprofundar seu conhecimento.
-- **Vídeos e Palestras**: Assista a vídeos e palestras para melhor visualização dos processos.
-
-## Autoavaliação e Revisão
-- Faça resumos e mapas mentais para cada tema.
-- Resolva questões práticas de provas anteriores.
-- Participe de grupos de estudo para discussão dos tópicos.
