@@ -47,26 +47,6 @@
 - **Inflamação crônica**:
   Se o agente causador não é completamente eliminado ou se a resposta inflamatória é desregulada, a inflamação pode se tornar crônica, levando a danos teciduais persistentes e doenças crônicas.
 
-#### Como Ocorre a Reação Aguda:
-- Reconhecimento do agente invasor:
-  O sistema imunológico reconhece patógenos através de receptores específicos (como TLRs - Toll-like receptors) que detectam padrões moleculares associados a .
-  
-- Ativação de células imunológicas:
-  Células imunológicas são ativadas e começam a produzir mediadores inflamatórios que amplificam a resposta e recrutam mais células ao local da infecção.
-  
-- Liberação de mediadores químicos:
-  Mediadores como histamina, prostaglandinas e citocinas são liberados, aumentando a permeabilidade vascular e atraindo mais células imunológicas.
-
-#### Caminhos que Ela Pode Seguir:
-- Resolução completa:
-  O agente causador é eliminado, a inflamação cessa e o tecido retorna ao normal sem danos permanentes.
-  
-- Cura com cicatrização:
-  Se o dano tecidual é significativo, o tecido pode cicatrizar, resultando em formação de cicatriz e possível perda de função.
-  
-- Inflamação crônica:
-  Se o agente causador não é completamente eliminado ou se a resposta inflamatória é desregulada, a inflamação pode se tornar crônica, levando a danos teciduais persistentes e doenças crônicas.
-
 ## 2. Reações Inflamatórias Crônicas
 
 ### Pontos Principais para Estudo:
