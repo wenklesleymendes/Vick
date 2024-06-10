@@ -6,7 +6,7 @@
 
 #### Células Envolvidas:
 - **Neutrófilos**:
-  Neutrófilos são os leucócitos mais abundantes no sangue e os primeiros a chegar no local da inflamação. Eles fagocitam (ingerem) microrganismos e detritos celulares, e liberam enzimas que ajudam a degradar patógenos mendes.
+  Neutrófilos são os leucócitos mais abundantes no sangue e os primeiros a chegar no local da inflamação. Eles fagocitam (ingerem) microrganismos e detritos celulares, e liberam enzimas que ajudam a degradar patógenos.
   
 - **Macrófagos**:
   Macrófagos derivam de monócitos e têm um papel crucial na resposta inflamatória. Eles fagocitam patógenos, células mortas e detritos. Além disso, secretam citocinas que modulam a resposta inflamatória.
